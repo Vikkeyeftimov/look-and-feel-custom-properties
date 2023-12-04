@@ -1,0 +1,13 @@
+:root{
+    --primaire: orange;
+    --lol: blue;
+    --;
+}
+
+p{
+    color:var(--primaire)
+}
+
+.blue{
+    background-color: var(--lol);
+}
